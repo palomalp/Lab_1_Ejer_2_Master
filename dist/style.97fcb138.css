@@ -1,0 +1,8 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 100px;
+  grid-template-rows: repeat 3 100px repeat 2 50px 100px;
+  gap: 1rem;
+}
+
+/*# sourceMappingURL=/style.97fcb138.css.map */

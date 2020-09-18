@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAEA;EACA;EACA;EACA;EACA","file":"style.97fcb138.css","sourceRoot":"..\\src","sourcesContent":["\r\n\r\n.grid-container {\r\ndisplay: grid;\r\ngrid-template-columns: 100px;\r\ngrid-template-rows: repeat (3 100px) repeat (2 50px) 100px;\r\ngap: 1rem;\r\n}\r\n\r\n"]}

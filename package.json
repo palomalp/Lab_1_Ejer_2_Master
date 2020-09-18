@@ -1,0 +1,22 @@
+{
+  "name": "lab_1_ejer_2_master",
+  "version": "1.0.0",
+  "description": "Segundo ejercicio del laboratorio uno del Máster LemondCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palomalp/Lab_1_Ejer_2_Master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palomalp/Lab_1_Ejer_2_Master/issues"
+  },
+  "homepage": "https://github.com/palomalp/Lab_1_Ejer_2_Master#readme",
+  "dependencies": {
+    "sass": "^1.26.11"
+  }
+}

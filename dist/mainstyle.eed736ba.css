@@ -1,0 +1,12 @@
+
+
+.main-container {
+grid-template-columns: 100px;
+grid-template-rows: repeat(3, 100px) repeat(2, 50px) 100px;
+display: grid;
+gap: 1rem;
+}
+
+
+
+/*# sourceMappingURL=/mainstyle.eed736ba.css.map */

@@ -1,0 +1,16 @@
+@import "styleA.scss";
+// @import "styleB.scss";
+
+.main-container {
+grid-template-columns: 110px;
+grid-template-rows: repeat(3, 80px) repeat(2, 50px) 80px;
+display: grid;
+font-family: serif;
+text-align: center;
+}
+
+.box {
+    border: black 1px solid;
+    padding: 10px;
+}
+
